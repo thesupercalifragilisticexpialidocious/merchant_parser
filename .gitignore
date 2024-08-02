@@ -15,6 +15,7 @@ build/
 .env.test
 .idea/
 .tox/
+.db
 node_modules/
 .DS_Store
 venv/
